@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/zh/frcategories/</loc>
+    <loc>https://hahhforest.github.io/zh/frcategories/</loc>
   </url><url>
-    <loc>http://localhost:1313/zh/frseries/</loc>
+    <loc>https://hahhforest.github.io/zh/frseries/</loc>
   </url><url>
-    <loc>http://localhost:1313/zh/frtags/</loc>
+    <loc>https://hahhforest.github.io/zh/frtags/</loc>
   </url><url>
-    <loc>http://localhost:1313/zh/</loc>
+    <loc>https://hahhforest.github.io/zh/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://hahhforest.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/"
+                href="https://hahhforest.github.io/zh/"
                 />
   </url>
 </urlset>
